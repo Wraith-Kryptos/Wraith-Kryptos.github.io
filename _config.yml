@@ -14,7 +14,7 @@ author: Leo
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Test: "test"
 
 # --- Logo --- #
 
@@ -100,9 +100,9 @@ text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#0260f7"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-text-col: "#ffffff"
+footer-link-col: "#ffffff"
+footer-hover-col: "#ffffff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
