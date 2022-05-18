@@ -8,18 +8,8 @@ Schicke uns den Link mit dem Formular
 
 ---
 
-<form
-  action="https://formspree.io/f/xoqryboa"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+<form method="POST" action="https://formspree.io/f/xoqryboa">
+  <input type="email" name="email" placeholder="Deine Email-Adresse">
+  <textarea name="message" placeholder="Link zum Modell"></textarea>
+  <button type="submit">Senden</button>
 </form>
