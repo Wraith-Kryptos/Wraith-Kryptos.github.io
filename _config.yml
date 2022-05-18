@@ -14,7 +14,7 @@ author: Leo
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Test: "test"
+  Bestellen: "Bestellen"
 
 # --- Logo --- #
 
@@ -59,15 +59,14 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -159,11 +158,11 @@ footer-hover-col: "#0085A1"
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
-#utterances:
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  issue-term: title   # Mapping between blog posts and GitHub issues
-#  theme: github-light # Utterances theme
-#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+utterances:
+  repository: "wraith-kryptos/wraith-kryptos.github.io"
+  issue-term: title   # Mapping between blog posts and GitHub issues
+  theme: github-light # Utterances theme
+  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection. 
@@ -171,10 +170,10 @@ footer-hover-col: "#0085A1"
 # https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
 # instructions. For any support with staticman please direct questions to staticman and 
 # not to BeautifulJekyll.
-staticman:
-  repository : wraith-kryptos/wraith-kryptos.github.io
-  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
+#staticman:
+#  repository : wraith-kryptos/wraith-kryptos.github.io
+#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
