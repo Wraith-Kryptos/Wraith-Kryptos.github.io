@@ -1,7 +1,7 @@
 ---
 layout: page
-Title: 3D-Modell Auswählen
-Subtitle: Find.
+title: Modelle Finden
+subtitle: Find.
 permalink: /3D-Modelle
 ---
 
