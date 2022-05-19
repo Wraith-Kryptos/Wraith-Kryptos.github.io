@@ -13,7 +13,8 @@ Schicke uns den Link mit dem Formular
 <form method="post" action="https://forms.un-static.com/forms/Y2b25cd4faa1305ce82a3bf4241703b43e789f0b1">
   <input type="email" name="email" placeholder="Email" required>
   <br>
-  <textarea name="message" cols="30" rows="15"></textarea>
+  <br>
+  <textarea name="message" cols="8" rows="15"></textarea>
   <br>
   <button type="submit">Senden</button>
   <div class="text-center">
