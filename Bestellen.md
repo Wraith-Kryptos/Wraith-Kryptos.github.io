@@ -2,7 +2,7 @@
 layout: page
 title: Bestellen
 subtitle: Send.
-permalink: /store/
+permalink: /Bestellen
 ---
 
 Schicke uns den Link mit dem Formular

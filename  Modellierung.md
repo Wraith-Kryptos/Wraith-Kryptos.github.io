@@ -2,7 +2,7 @@
 layout: page
 Title: 3D-Modellbau
 subtitle: Create.
-permalink: /model/
+permalink: /Modellierung
 ---
 
 ## 3D-Modellbau

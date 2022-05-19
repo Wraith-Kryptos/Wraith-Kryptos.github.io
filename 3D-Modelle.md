@@ -2,7 +2,7 @@
 layout: page
 Title: 3D-Modell Auswählen
 Subtitle: Find.
-permalink: /find/
+permalink: /3D-Modelle
 ---
 
 ## Ein 3D-Modell aussuchen
