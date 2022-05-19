@@ -10,14 +10,10 @@ Schicke uns den Link mit dem Formular
 ---
  
 
-<div id="contact">
-        <h2>Link zu deinem Modell</h2>
-        <div id="contact-form">
-                <form action="https://formspree.io/f/xoqryboa" method="POST">
-                <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Deine Email" required>
-                <textarea name="message" placeholder="Link zum Modell" required></textarea>
-                <button type="submit">Senden</button>
-            </form>
-        </div>
-    </div>
+<form method="post" action="https://forms.un-static.com/forms/Y2b25cd4faa1305ce82a3bf4241703b43e789f0b1">
+  <input type="email" name="email" placeholder="Email" required>
+  <textarea name="message" cols="40" rows="15"></textarea>
+  <button type="submit">Senden</button>
+  <div class="text-center">
+  </div>
+</form>
