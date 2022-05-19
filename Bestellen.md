@@ -18,14 +18,12 @@ Schicke uns den Link mit dem Formular
     Deine Email:
     <input type="email" name="Email">
   </label>
-
-
+ 
   <label>
     Link zum Modell:
     <textarea name="message"></textarea>
   </label>
-
-
+ 
   <!-- your other form fields go here -->
   <button type="submit">Senden</button>
 </form>
