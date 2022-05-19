@@ -2,6 +2,7 @@
 layout: page
 title: Bestellen
 subtitle: Send.
+permalink: /store/
 ---
 
 Schicke uns den Link mit dem Formular
@@ -24,7 +25,7 @@ Schicke uns den Link mit dem Formular
     <textarea name="message"></textarea>
   </label>
 
-  
+
   <!-- your other form fields go here -->
   <button type="submit">Senden</button>
 </form>
