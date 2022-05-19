@@ -5,7 +5,7 @@ Subtitle: Find.
 permalink: /find/
 ---
 
-## Guide: Ein 3D-Modell aussuchen
+## Ein 3D-Modell aussuchen
 
 Es gibt unzählige 3D-Modelle, die auf unterschiedlichen Webseiten kostenlos zugreifbar sind.
 

@@ -5,7 +5,7 @@ subtitle: Create.
 permalink: /model/
 ---
 
-## Guide: 3D-Modellbau
+## 3D-Modellbau
 
 Wenn ihr selber 3D-Modellbau ausprobieren wollt, dann könnt ihr dies auch machen. Wie immer, es gibt Kosenlose Plattformen fürs Modellieren. 
 Unten findet ihr ein paar sogenannte _**CAD-Programme**_, die euch unterstützen werden.
