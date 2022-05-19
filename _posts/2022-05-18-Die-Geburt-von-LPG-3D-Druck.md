@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3D-Druck @ LPG
+tags: [status]
 ---
 
 Es erwarten große Abenteuer der Technik.
