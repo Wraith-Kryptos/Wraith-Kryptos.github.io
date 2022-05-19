@@ -26,3 +26,10 @@ Nachdem die Anfrage geschickt wurde, werden wir euch sobald wie möglich den Pre
 ### 4. Schritt
 
 Wir informieren dich, sobald das Objekt fertig ist. Zu einem bestimmten Zeitpunkt kannst du ihn dann an einem bestimmten Ort abholen.
+
+
+[Modelle-Finden]:
+[MOdellieren]:
+[Modelling-serv-Beta]:
+[Bestellungen]:
+[model-upload]:
