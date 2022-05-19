@@ -11,8 +11,8 @@ Es gibt unzählige 3D-Modelle, die auf unterschiedlichen Webseiten kostenlos zug
 
 ---
 
-[Thingiverse](https://www.thingiverse.com/)
+* [Thingiverse](https://www.thingiverse.com/)
  
-[Printables](https://www.printables.com)
+* [Printables](https://www.printables.com)
  
-[Thangs](https://www.thangs.com)
+* [Thangs](https://www.thangs.com)

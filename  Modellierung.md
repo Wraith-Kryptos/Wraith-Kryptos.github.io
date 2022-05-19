@@ -13,15 +13,15 @@ Unten findet ihr ein paar sogenannte _**CAD-Programme**_, die euch unterstützen
 ---
 ### Beginner
 
-*[Tinkercad](https://www.tinkercad.com)
+* [Tinkercad](https://www.tinkercad.com)
  
-*[3D-Builder](https://apps.microsoft.com/store/detail/3d-builder/9WZDNCRFJ3T6?hl=en-us&gl=US) _Nur für Windows_
+* [3D-Builder](https://apps.microsoft.com/store/detail/3d-builder/9WZDNCRFJ3T6?hl=en-us&gl=US) _Nur für Windows_
 
 ---
 ### Herausforderer
 
-*[Autodesk-Fusion360](https://www.autodesk.com/products/fusion-360/personal)
+* [Autodesk-Fusion360](https://www.autodesk.com/products/fusion-360/personal)
  
-*[SketchUp](https://www.sketchup.com)
+* [SketchUp](https://www.sketchup.com)
  
-*[OnShape](https://www.onshape.com/en/products/free)
+* [OnShape](https://www.onshape.com/en/products/free)
