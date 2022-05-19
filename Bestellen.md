@@ -7,9 +7,20 @@ subtitle: Send.
 Schicke uns den Link mit dem Formular
 
 ---
+ 
 
-<form method="POST" action="https://formspree.io/f/xoqryboa">
-  <input type="email" name="email" placeholder="Deine Email-Adresse">
-  <textarea name="message" placeholder="Link zum Modell"></textarea>
+<form
+  action="https://formspree.io/f/xoqryboa"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="Email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="Link zum Modell"></textarea>
+  </label>
+  <!-- your other form fields go here -->
   <button type="submit">Senden</button>
 </form>
