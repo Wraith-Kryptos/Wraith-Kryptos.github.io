@@ -28,8 +28,8 @@ Nachdem die Anfrage geschickt wurde, werden wir euch sobald wie möglich den Pre
 Wir informieren dich, sobald das Objekt fertig ist. Zu einem bestimmten Zeitpunkt kannst du ihn dann an einem bestimmten Ort abholen.
 
 
-[Modelle-Finden]:
-[MOdellieren]:
-[Modelling-serv-Beta]:
-[Bestellungen]:
-[model-upload]:
+[Modelle-Finden]: /3D-Modelle.md
+[Modellieren]: /Modellierung.md
+[Modelling-serv-Beta]: /Custom_models.md
+[Bestellungen]: /Bestellen.md
+[model-upload]: /Bestellen.md
