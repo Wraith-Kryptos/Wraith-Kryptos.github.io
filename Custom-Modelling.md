@@ -2,7 +2,7 @@
 layout: page
 title: Custom-Modelling
 subtitle: Sculpt.
-permalink: /custom-models
+permalink: /custom-Modelling
 ---
 
 # Modellierung nach Maß
