@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Custom Modelling
+title: Custom-Modelling
 subtitle: Sculpt.
 permalink: /custom-models
 ---
